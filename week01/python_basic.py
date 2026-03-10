@@ -198,4 +198,4 @@ print(dic)
 print(dic['phone'])
 print(dic['name'])
 
-# key의
+# key의 리스트 만들기
