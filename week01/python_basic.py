@@ -180,4 +180,5 @@ t2 * 10
 # t2[2] = 99   # 오류 발생
 
 # 디셔너리 만들기
-dic = {'name';'Houng', 'phonr':}
+dic = {'name':'Houng', 'phone':'012345678',
+       }
