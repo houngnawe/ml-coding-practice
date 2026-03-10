@@ -196,4 +196,6 @@ print(dic)
 
 # 원소의 value 구하기
 print(dic['phone'])
-print()
+print(dic['name'])
+
+# key의
