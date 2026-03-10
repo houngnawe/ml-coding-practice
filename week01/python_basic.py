@@ -188,3 +188,5 @@ dic[1] = 'a'
 print(dic)
 
 dic['pet'] = 'dog'
+print(dic)
+
