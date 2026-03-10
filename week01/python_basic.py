@@ -201,6 +201,6 @@ print(dic['name'])
 print(dic.values())
 print(list(dic.keys()))
 
-
+for key in dic.keys()
 
 
