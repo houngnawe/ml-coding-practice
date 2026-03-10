@@ -229,7 +229,7 @@ print(s3)
 print(s2 & s3)
 print(s2.intersection(s3))
 
-# 치
+# 합집
 
 
 
