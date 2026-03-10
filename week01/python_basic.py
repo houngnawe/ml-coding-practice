@@ -185,4 +185,6 @@ dic = {'name':'Houng', 'phone':'012345678',
 
 #원소 추가
 dic[1] = 'a'
-print()
+print(dic)
+
+dic['pet'] = 'dog'
