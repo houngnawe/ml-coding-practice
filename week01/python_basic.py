@@ -219,6 +219,7 @@ dic.clear()
 print(dic)
 
 # 집합 만들기
-s1 = {1,}
+s1 = {1, 2, 'a', 5}
+s2 = set{}
 
 
