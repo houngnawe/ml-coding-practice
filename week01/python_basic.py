@@ -205,6 +205,7 @@ for key in dic.keys():
     print(dic[key])
 
 # value의 리스트 만들기
-print()
+print(dic.values())
+print(list9dic.times)
 
 
