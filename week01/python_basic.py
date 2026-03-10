@@ -208,6 +208,7 @@ for key in dic.keys():
 print(dic.values())
 print(list(dic.values()))
 
-# key, value 
+# key, value 쌍 구하기
+print()
 
 
