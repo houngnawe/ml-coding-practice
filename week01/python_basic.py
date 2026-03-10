@@ -129,4 +129,4 @@ print(a)
 b.sort()
 print(a)
 
-
+# 원소 순서 
