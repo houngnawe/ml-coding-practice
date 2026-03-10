@@ -212,6 +212,8 @@ print(list(dic.values()))
 print(dic.item())
 
 for key, value in dic.items():
-    print(key)
+    print(key + ":" + value)
+    
+# 
 
 
