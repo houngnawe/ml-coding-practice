@@ -141,4 +141,6 @@ print(a.index(9))
 a.insert(0, 99)
 print(a)
 
-# 원소 삭
+# 원소 삭제
+a.remove(99)
+print(a)
