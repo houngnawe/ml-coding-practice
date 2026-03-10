@@ -154,4 +154,5 @@ print(b)
 
 # 특정 원소값의 개수
 a = [2, 1, 0, 2, 3, 2, 4, 2]
-print(a.count)
+print(a.count(2))
+
