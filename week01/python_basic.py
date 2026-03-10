@@ -147,3 +147,6 @@ print(a)
 
 b = [1, 2, 3]
 print(b.pop())
+print(b)
+
+print(b.pop(0))
