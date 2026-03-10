@@ -109,4 +109,4 @@ print(a * 3)
 
 # 라스트 수정
 a[2] = 99
-print (a)
+print(a)
