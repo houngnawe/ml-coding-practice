@@ -211,6 +211,7 @@ print(list(dic.values()))
 # key, value 쌍 구하기
 print(dic.item())
 
-for key, value in dic.item
+for key, value in dic.items():
+    print(key)
 
 
