@@ -199,6 +199,8 @@ print(dic['name'])
 
 # key의 리스트 만들기
 print(dic.values())
-print(list(dic.values()))
+print(list(dic.keys()))
+
+
 
 
