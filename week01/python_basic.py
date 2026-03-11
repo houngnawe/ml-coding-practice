@@ -277,5 +277,6 @@ print('i' not in 'Python')
 if money >= 10:
     pass
 else:
-    print('지금하')
+    print('지금하자')
+"""# 4. 반복"""
 
