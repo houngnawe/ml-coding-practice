@@ -269,5 +269,6 @@ if money >= 1200 and money < 3500:
 # 그륩 자료형의 원소인지 겁사하기
 print(1 in [1, 2, 3])
 print(x in [1, 2, 3])
+print(x not in [1, 2, 3])
 print9
 
