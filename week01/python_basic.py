@@ -278,6 +278,7 @@ if money >= 10:
     pass
 else:
     print('지금하자')
+    
 """# 4. 반복문"""
 
 # for 반복문1
