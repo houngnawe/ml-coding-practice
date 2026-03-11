@@ -271,5 +271,7 @@ print(1 in [1, 2, 3])
 print(x in [1, 2, 3])
 print(x not in [1, 2, 3])
 print('a' in ['a', 'b', 'c', 'd'])
-print('i' not in 'P')
+print('i' not in 'Python')
+
+
 
