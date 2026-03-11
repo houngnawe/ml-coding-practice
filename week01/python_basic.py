@@ -237,7 +237,9 @@ print(s2.union(s3))
 print(s2 - s3)
 print(s3 - s2)
 print(s2.difference(s3))
+print(s3.difference(s2))
 
+# 원
 
 
 
