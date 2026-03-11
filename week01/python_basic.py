@@ -281,5 +281,6 @@ else:
 """# 4. 반복문"""
 
 # for 반복문1
-test_list = ['one', 'two', ]
+test_list = ['one', 'two', 'three']
+
 
