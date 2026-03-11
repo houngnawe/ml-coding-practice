@@ -247,6 +247,7 @@ print(s2)
 s2.update([6, 7, 8, 9, 10])
 print(s2)
 
-# 특저
+# 특정 원소 제거
+s2.remove
 
 
