@@ -273,5 +273,5 @@ print(x not in [1, 2, 3])
 print('a' in ['a', 'b', 'c', 'd'])
 print('i' not in 'Python')
 
-
+# 아무 거
 
