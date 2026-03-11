@@ -267,5 +267,7 @@ if money >= 1200 and money < 3500:
     print('버스를 탈 수 있습니다.')
 
 # 그륩 자료형의 원소인지 겁사하기
-print()
+print(1 in [1, 2, 3])
+print(x in [1, 2, 3])
+print9
 
