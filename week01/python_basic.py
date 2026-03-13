@@ -304,5 +304,8 @@ while i < 5:
     
 # 함수 정의
 def sum1(a, b):
-    
+    x = a + b
+    return x
+
+def sum2()
 
