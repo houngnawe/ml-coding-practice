@@ -307,5 +307,5 @@ def sum1(a, b):
     x = a + b
     return x
 
-def sum2()
-
+def sum2(*argd):
+    
