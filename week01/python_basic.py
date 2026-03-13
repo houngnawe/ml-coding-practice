@@ -313,5 +313,9 @@ def sum2(*args):
         x += i
     return x
 
-# 함수 호
+# 함수 호출
+a = 5
+b = 3
+print(sum1(a, b))
+
     
