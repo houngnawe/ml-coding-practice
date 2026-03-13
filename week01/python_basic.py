@@ -287,5 +287,7 @@ for i in test_list:
     x = i + '!'
     print(x)
 
-# for 반복
+# for 반복문2
+number = 0
+for score in [90, 25, ]
 
