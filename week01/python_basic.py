@@ -287,5 +287,5 @@ for i in test_list:
     x = i + '!'
     print(x)
 
-
+# for 반복
 
