@@ -308,4 +308,7 @@ def sum1(a, b):
     return x
 
 def sum2(*argd):
+    x = 0
+    for i in args:
+        x += i
     
