@@ -443,5 +443,7 @@ print(lines)
 for line in lines:
     print(lines)
     
-f.
+f.closse()
+
+# 파일 모드 'r' - read()
     
