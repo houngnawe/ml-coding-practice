@@ -354,5 +354,5 @@ print(tuple([1, 2, 3]))
 print(type("abc"))
 print(type(a))
 
-# 가
+# 간단한 삽입형 함수 샌
     
