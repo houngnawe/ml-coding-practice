@@ -408,3 +408,7 @@ datetime.now()
 f = open('example.txt', 'w')
 print(f)
 
+# 파일 닫기
+f.close()
+
+# 파일 쓰가
