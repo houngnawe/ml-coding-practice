@@ -386,4 +386,4 @@ print(list(range(5, 10, 2)))
 for i in range(5, 20, 3):
     print(i)
 
-# 입
+# 입력겂 s의 길이를 반환
