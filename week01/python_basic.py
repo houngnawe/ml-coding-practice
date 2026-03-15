@@ -403,3 +403,5 @@ pandas.DataFrame()
 
 from datetime import datetime
 datetime.now()
+
+# 파일 객체
