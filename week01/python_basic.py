@@ -446,4 +446,6 @@ for line in lines:
 f.closse()
 
 # 파일 모드 'r' - read()
+f = open('example.txt', 'r')
+data = 
     
