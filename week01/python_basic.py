@@ -447,5 +447,8 @@ f.closse()
 
 # 파일 모드 'r' - read()
 f = open('example.txt', 'r')
-data = 
-    
+data = f.read()
+f.close()
+data
+
+# with open()    
