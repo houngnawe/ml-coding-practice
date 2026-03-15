@@ -359,4 +359,4 @@ sum = lambda a, b: a +b
 
 print(sum(3, 5))
 
-# 최    
+# 최대, 최소값 반    
