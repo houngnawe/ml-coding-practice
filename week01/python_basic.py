@@ -451,4 +451,5 @@ data = f.read()
 f.close()
 data
 
-# with open()    
+# with open() as 파일 객체
+    
