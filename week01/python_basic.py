@@ -377,4 +377,4 @@ print(c)
 c = input("정수를 입력하세요: ")
 print(c)
 
-# 
+# 입려
