@@ -440,5 +440,8 @@ f = open('example.txt', 'r')
 lines = f.readline()
 print(lines)
 
-
+for line in lines:
+    print(lines)
+    
+f.
     
