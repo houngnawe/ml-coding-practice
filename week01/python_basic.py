@@ -418,5 +418,6 @@ for i in range(1, 6):
     f.write(data)
 f.close()
 
-# 파일에 내용 추
+# 파일에 내용 추가하기
+
 
