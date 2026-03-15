@@ -369,4 +369,4 @@ print(min("Python"))
 # x의 y제곱 결과값 반환
 print(pow(2, 4))
 
-# 사용자     
+# 사용자 입    
