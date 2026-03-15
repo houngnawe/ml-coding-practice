@@ -350,6 +350,7 @@ print((1, 2, 3))
 print(tuple("Python"))
 print(tuple([1, 2, 3]))
 
+# x의 자료형
 print(type("abc"))
 
     
