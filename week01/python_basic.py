@@ -339,5 +339,5 @@ print(dir([1, 2, 3]))
 print(dir({'1':'a'}))
 print(dir(1))
 
-
+print(int('3'))        # x를 저
     
