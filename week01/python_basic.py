@@ -412,5 +412,6 @@ print(f)
 f.close()
 
 # 파일 쓰기
-f.
+f = open('example.txt', 'w')
+for i in range
 
