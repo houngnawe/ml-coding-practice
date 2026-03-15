@@ -435,5 +435,6 @@ while True:
     
 f.close()
 
-# 
+# 파일 모드 'r' - readline()
+f = 
     
