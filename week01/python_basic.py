@@ -387,3 +387,7 @@ for i in range(5, 20, 3):
     print(i)
 
 # 입력겂 s의 길이를 반환
+len('Python')
+
+print(sorted([3, 0, 2, 1]))
+print()
