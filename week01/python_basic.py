@@ -340,5 +340,5 @@ print(dir({'1':'a'}))
 print(dir(1))
 
 print(int('3'))        # x를 정수 형태로 반환
-print(())
+print(str(3))          # x를 문
     
