@@ -147,4 +147,6 @@ print(average_df)
 # 2.2 넘파이
 import numpy as np
 
-print()
+print(np.arrqy([1, 2, 3]))
+
+print(np.array)
