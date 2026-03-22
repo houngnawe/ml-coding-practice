@@ -21,4 +21,5 @@ import pandas as pd
 file_url = 'https://media.githubusercontent.com/media/musthave-ML10/data_source/main/sample_df.csv'
 
 sample_df = pd.read_csv(file_url, index_col=0)
-print()
+print(sample_df.head())
+
