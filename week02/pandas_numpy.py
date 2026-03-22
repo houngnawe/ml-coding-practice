@@ -33,4 +33,5 @@ print(sample_df.loc['a'])             # 행 기준으로 인덱싱
 print(sample_df.loc[['a','c','e']])
 print(sample_df.loc['a':'c'])
 
-# iloc: inter
+# iloc: interger location의 약자
+print(sample_df)
