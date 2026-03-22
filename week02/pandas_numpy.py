@@ -217,8 +217,8 @@ print(a.sum())    # 모든 요소의 함
 print(a.mean())   # 모든 요소의 평균
 print(a.mean(axis = 0))      # 열을 가준으로 연산
 
-print(a.min())    # 모든 요소
-print(a.max())
+print(a.min())    # 모든 요소 중 촤솟값
+print(a.max())    # 모든 요소 중 촤값
 
 print(a.max(axis=1))
 print(a.cumsum())
