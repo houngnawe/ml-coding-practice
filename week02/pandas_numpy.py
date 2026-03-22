@@ -118,4 +118,7 @@ data = {
 }
 
 # Dataframe 생성
-df = pd.
+df = pd.DataFrame(data)
+print(df.head())
+
+나이가
