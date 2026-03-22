@@ -127,5 +127,5 @@ print(result)
 
 # 예제 데이터 생성
 data = {
-    'name'
+    'name': ['Alice, 'Bob'']
 }
