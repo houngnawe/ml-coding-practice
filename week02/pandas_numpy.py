@@ -134,4 +134,7 @@ data = {
 }
 
 # Dataframe 생성
-df= pd.DataFrame(d)
+df= pd.DataFrame(data)
+print(df.head())
+
+# 개
