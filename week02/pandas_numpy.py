@@ -214,4 +214,4 @@ a = np.arange(8).reshape(2, 4) ** 2
 print(a)
 
 print(a.sum())    # 모든 요소의 함
-print(a.mean())   #  
+print(a.mean())   # 모든 요소의 평 
