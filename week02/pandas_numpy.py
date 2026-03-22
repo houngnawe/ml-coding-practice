@@ -222,4 +222,4 @@ print(a.max())    # 모든 요소 중 촤댓값
 
 print(a.max(axis=1))
 print(a.cumsum())     # 모든 요소의 누적합
-print(a.argmax())     # # 모든 요소 중 촤댓값의 인
+print(a.argmax())     # # 모든 요소 중 촤댓값의 인덱스
