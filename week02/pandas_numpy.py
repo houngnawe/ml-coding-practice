@@ -133,4 +133,5 @@ data = {
     'english': [90, 87, 85, 88, 92]
 }
 
-# Dataframe 
+# Dataframe 생성
+df= pd.DataFrame(d)
