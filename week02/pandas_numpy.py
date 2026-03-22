@@ -185,4 +185,6 @@ print(np_a)
 print(np_a + 10)
 print(np_a - 5)
 print(np_a * 2)
-print(np_a+10 / )
+print(np_a+10 / 3)
+
+np_b = np.array([[1,0], []])
