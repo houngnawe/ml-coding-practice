@@ -216,4 +216,8 @@ print(a)
 print(a.sum())    # 모든 요소의 함
 print(a.mean())   # 모든 요소의 평균
 print(a.mean(axis = 0))
- 
+
+print(a.min())
+print(a.max())
+
+print(a.max(axis)) 
