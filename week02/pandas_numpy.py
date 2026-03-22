@@ -125,4 +125,7 @@ print(df.head())
 result = df[df['age'] >= 30] [['name', 'salary']]
 print(result)
 
-# 예제 데아
+# 예제 데이터 생성
+data = {
+    'name'
+}
