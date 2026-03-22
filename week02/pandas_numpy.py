@@ -85,4 +85,4 @@ condition = (
 winner_df = df[condition]
 print(winner_df)
 
-print()
+print(sample_df.reset)
