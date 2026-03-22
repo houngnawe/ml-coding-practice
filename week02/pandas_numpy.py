@@ -110,3 +110,4 @@ print(iris['class'].unique())
 print(iris['class'].nuunique())
 print(iris['class'].value_counts())
 
+# 예제 데
