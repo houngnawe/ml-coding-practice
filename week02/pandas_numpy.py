@@ -220,4 +220,6 @@ print(a.mean(axis = 0))
 print(a.min())
 print(a.max())
 
-print(a.max(axis)) 
+print(a.max(axis=1))
+print(a.cumsum())
+print(a.argmax()) 
