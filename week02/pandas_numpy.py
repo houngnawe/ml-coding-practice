@@ -209,5 +209,5 @@ print(np.sqrt(A))
 
 print(np.arange(8).reshape(2,4) + 10)
 
-# 0부터 8 미만까지
+# 0부터 8 미만까지 출력하고 (2,4) 크기로 재
  
