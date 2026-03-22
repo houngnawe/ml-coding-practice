@@ -174,4 +174,6 @@ print(sample_df.columns)            # 기존 프레임워크에서 컬럼명 가
 
 print(pd.DataFrame(sample_np, columns = sample_df.columns))    # 새 프레임워크레 컬럼명 불이기
 
-print(sam)
+print(sample_np)
+print(sample_np[0])
+print(sample_np[])
