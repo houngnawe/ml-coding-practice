@@ -137,4 +137,4 @@ data = {
 df= pd.DataFrame(data)
 print(df.head())
 
-# 개
+# 개인별 과묵 점수의 평균
