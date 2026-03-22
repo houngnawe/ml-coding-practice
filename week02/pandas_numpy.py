@@ -87,4 +87,4 @@ print(winner_df)
 
 print(sample_df.reset_index())
 
-print(sample_df.reset_index(drop=True))    # 기존 안
+print(sample_df.reset_index(drop=True))    # 기존 인덱스는 제거
