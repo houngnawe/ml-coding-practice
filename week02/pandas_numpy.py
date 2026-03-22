@@ -64,7 +64,7 @@ print(more2015_tv.head())
 more2015_or_tv = netflix[(netflix['release_year'] > 2015) | (netflix['type'] == 'TV Show')]
 print(more2015_or_tv.head())
 
-data = {
+data = {}
     'name': ['Alice', 'Bob, 'Charlie', 'David', 'Eve', 'Frank', 'Grace', 'Hannah'],
     'comment_lenght': [150, 200, 50, 300, 120, 180, 75, 160],
     'likes': [25. 30, 10, 45, 20, 35, 5, 28],
@@ -81,3 +81,4 @@ condition = (
     (~df['is_spam']) &                # 스퍔 댓글이 아니어야 함
     (df['has_image'])                 # 이미지가 포함된 댓글이어야 함
 )
+# 
