@@ -79,5 +79,5 @@ condition = (
     (df['comment_lenght'] >= 100) &
     (df['likes'] >= 20) &
     (~df['is_spam']) & 
-    (df)
+    (df['has_image'])
 )
