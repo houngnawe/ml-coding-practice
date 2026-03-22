@@ -139,3 +139,6 @@ print(df.head())
 
 # 개인별 과묵 점수의 평균값 계산 (axis=1)
 df['average'] = df[['math', 'science', 'english']].mean(axis=1)
+print(df)
+
+# 이름과 평균
