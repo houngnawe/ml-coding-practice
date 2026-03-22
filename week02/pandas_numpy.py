@@ -1,5 +1,7 @@
 import pandas as pd
 
+netflix = pd.read_csv('')
+
 file_url = 'https://media.githubusercontent.com/media/musthave-ML10/data_source/main/sample.csv'
 sample = pd.read_csv(file_url)
 
