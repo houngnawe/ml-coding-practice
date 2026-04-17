@@ -9,4 +9,5 @@ client_secret = 'Client Secret'
 def main():
     
     node = 'news'
-    srcText = input('검')
+    srcText = input('검색어를 입력하세요: ')
+    
