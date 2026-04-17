@@ -9,4 +9,4 @@ client_secret = 'Client Secret'
 def main():
     
     node = 'news'
-    srcText
+    srcText = input('검')
