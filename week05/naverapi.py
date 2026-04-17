@@ -6,3 +6,7 @@ import json
 client_id = 'Client ID'
 client_secret = 'Client Secret'
 
+def main():
+    
+    node = 'news'
+    srcText
