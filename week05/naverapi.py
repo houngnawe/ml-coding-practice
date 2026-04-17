@@ -33,5 +33,5 @@ def main():
         
         outfile.write(jsonFile)
         
-    
+    print()
         
