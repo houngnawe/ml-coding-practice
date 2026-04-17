@@ -18,4 +18,5 @@ def main():
     total = jsonResponse['total']
     
     while ((jsonResponse != None) and (jsonResponse['display'] != 0)):
- for 
+         for post in jsonResponse['time']:
+             
