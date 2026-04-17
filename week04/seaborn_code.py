@@ -35,8 +35,6 @@ fig = plt.figure(figsize=(15, 5))
 ax1 = fig.add_subplot(1, 2, 1)
 ax2 = fig.add_subplot(1, 2, 2)
 
-# 
-
 # 식사가 이루어진 시간대 파악
 # x출 번수, 데이터셋, axe, 객첵(1번째 그래프)
 sns.countplot(x='time', hue='day', data=tips, palette='Set2', ax=ax2)
