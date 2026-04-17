@@ -4,4 +4,5 @@ import datetime
 import json
 
 client_id = 'Client ID'
-client_scr
+client_secret = 'Client Secret'
+
