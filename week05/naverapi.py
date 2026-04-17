@@ -8,6 +8,8 @@ client_secret = 'Client Secret'
 
 def main():
     
-    node = 'news'
+    node = 'news
     srcText = input('검색어를 입력하세요: ')
+    
+    cnt = 0
     
