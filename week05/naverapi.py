@@ -13,3 +13,5 @@ def main():
     
     cnt = 0
     jsonResult = []
+    
+    jsonResponse = getNever
