@@ -19,4 +19,5 @@ def main():
     
     while ((jsonResponse != None) and (jsonResponse['display'] != 0)):
          for post in jsonResponse['time']:
-             
+             cnt += 1
+             getPostData(post )
