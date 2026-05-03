@@ -5,4 +5,4 @@ mnist = fetch_openml('mnist_784', as_frame=False)
 
 print(mnist.keys()) # data의 target만 사용
 
-X, ㅛ
+X, y = mnist.data ,mnist.from django.utils.translation import ugettext_lazy as _
