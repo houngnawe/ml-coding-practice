@@ -13,4 +13,5 @@ print(y.shape)
 
 import matplotlib.pyplot as plt
 
-def  
+def plot_digit(image_data):
+    image =  
