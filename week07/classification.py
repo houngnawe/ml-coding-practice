@@ -5,4 +5,6 @@ mnist = fetch_openml('mnist_784', as_frame=False)
 
 print(mnist.keys()) # data의 target만 사용
 
-X, y = mnist.data ,mnist.from django.utils.translation import ugettext_lazy as _
+X, y = mnist.data ,mnist.target
+print(X)
+print(X,shape)
