@@ -3,4 +3,6 @@ from sklearn.datasets import fetch_openml
 
 mnist = fetch_openml('mnist_784', as_frame=False)
 
-print(mnist.keys()) # data
+print(mnist.keys()) # data의 target만 사용
+
+X, ㅛ
