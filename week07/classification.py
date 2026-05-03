@@ -20,5 +20,6 @@ def plot_digit(image_data):
     
 some_digit = X[0]
 plot_digit(some_digit)
-plt.show
-) 
+plt.show() 
+
+print(y[0])        # 
