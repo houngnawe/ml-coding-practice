@@ -41,4 +41,4 @@ y_test_5 = (y_test =='5')
 
 from sklearn.linear_model import SGDClassifier
 
-sdg_clf = SD
+sdg_clf = SGDClassifier
