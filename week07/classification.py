@@ -7,4 +7,4 @@ print(mnist.keys()) # data의 target만 사용
 
 X, y = mnist.data ,mnist.target
 print(X)
-print(X,shape)
+print(X.shape)      # 28 x 28 개의 
