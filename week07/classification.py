@@ -84,4 +84,5 @@ from sklearn.metrics import f1_score
 #  ROC 곡선
 from sklearn.metrics import roc_auc_score
 
-y_scores = cross
+y_scores = cross_val_predict(sgd_clf, X_train, y_train_5, cv=3,
+                             )
