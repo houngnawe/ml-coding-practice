@@ -49,7 +49,7 @@ sgd_clf.predict([some_digit])
 # 성능 측정 - 교자 검증을 사용한 정확도 측정
 from sklearn.model_selection import cross_val_score
 
-cross_val_score(sgd_clf, X_train, y_train_5, cv=3)
+cross_val_score(sgd_clf, X_train, y_train_5, cv=3, scoring="accuarcy")
 from sklearn.dummy import DummyClassifier
 
 dummy_clf = DummyClassifier()
