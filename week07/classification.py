@@ -66,4 +66,7 @@ y_train_prep = cross_val_predict(sgd_clf, X_train, y_train_5, cv=3)
 
 from sklearn.metrics import confusion_matrix
 
-cm = confusion_matrix(y_train_5, y_)
+cm = confusion_matrix(y_train_5, y_train_prep)
+print(cm)
+
+y_train_perfect_predi
