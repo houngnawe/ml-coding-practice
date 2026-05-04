@@ -84,4 +84,4 @@ from sklearn.metrics import f1_score
 #  ROC 곡선
 from sklearn.metrics import roc_auc_score
 
-
+y_scores = cross
