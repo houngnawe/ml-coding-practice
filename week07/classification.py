@@ -69,4 +69,5 @@ from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_train_5, y_train_prep)
 print(cm)
 
-y_train_perfect_predictions = y_train_5 # 완벽한 분류기알
+y_train_perfect_predictions = y_train_5 # 완벽한 분류기알 경우
+print(confusion_matrix(y_train_5))
