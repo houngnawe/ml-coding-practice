@@ -49,7 +49,7 @@ sgd_clf.predict([some_digit])
 # 성능 측정 - 교자 검증을 사용한 정확도 측정
 from sklearn.dummy import DummyClassifier
 
-dummy_clf = DummyClassifier
+dummy_clf = DummyClassifier()
 dummy_clf.fit(X_train, y_train_5)
 print(any(dummy_clf.predict(X_train)))
 
