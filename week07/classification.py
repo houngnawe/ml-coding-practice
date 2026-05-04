@@ -77,4 +77,4 @@ from sklearn.metrics import precision_score, recall_score
 
 print(precision_score(y_train_5, y_train_pred))  # == 3530 / (697 + 3530)
 
-print(recall_score(y_train_5, y_train))
+print(recall_score(y_train_5, y_train_pred))  # == 3530 / (1891 + 3530)
