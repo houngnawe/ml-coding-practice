@@ -46,4 +46,4 @@ sgd_clf.fit(X_train,y_test_5)
 
 sgd_clf.predict([some_digit])
 
-# 성능 측정 - 교자 검증을 사용한
+# 성능 측정 - 교자 검증을 사용한 정확도 측정
